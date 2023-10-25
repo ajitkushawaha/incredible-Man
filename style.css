@@ -4,10 +4,8 @@
     box-sizing: border-box;
 }
 body {
-    /* background: #000; */
     font-family: 'Allura', cursive;
     font-family: 'Montserrat', sans-serif;
-    /* font-family:'Times New Roman', Times, serif; */
 }
 
 body::-webkit-scrollbar {
@@ -19,7 +17,7 @@ header{
 }
 /* HERO_SECTION START */
 .hero {
-    background-image: url("/image/all-product-banner-1@2x.png");
+    background-image: url("./image/all-product-banner-1@2x.png");
     background-color: #cccccc;
     width: 100%;
     /* max-width: 1920px; */
@@ -305,7 +303,7 @@ nav {
 
 /* SECTION-SELLER-START */
 .seller__container {
-    background-image: url("/image/Group\ 580@2x.png");
+    background-image: URL("./image/Group\ 580@2x.png");
     background-color: #cccccc;
     width: 100%;
     height: 65vh;
