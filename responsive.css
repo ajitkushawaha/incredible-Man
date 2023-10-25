@@ -7,7 +7,7 @@
         width: 100%;
         background-position: top center;
         background-size: contain;
-        background-image: url("/image/Group\ 579@2x.png");
+        background-image: URL("./image/Group\ 579@2x.png");
         height: 80vh;
     }
     .hero__text {
@@ -26,7 +26,7 @@
 
     }
     .seller__container {
-        background-image: url("/image/Group\ 580@2x.png");
+        background-image: URL("./image/Group\ 580@2x.png");
         background-color: #cccccc;
         height: 35vh;
     }
@@ -40,7 +40,7 @@
         width: 100%;
         background-position: top center;
         background-size: 768px;
-        background-image: url("/image/Group\ 579@2x.png");
+        background-image: URL("./image/Group\ 579@2x.png");
         height: 66vh;
     }
     .hero__text {
@@ -59,7 +59,7 @@
 
     }
     .seller__container {
-        background-image: url("/image/Group\ 580@2x.png");
+        background-image: URL("./image/Group\ 580@2x.png");
         background-color: #cccccc;
         height: 35vh;
     }
@@ -77,7 +77,7 @@
         background-position: top center;
         background-size: 480px 500px;
         /* height: 60vh; */
-        background-image: url("/image/Group\ 579@2x.png");
+        background-image: URL("./image/Group\ 579@2x.png");
 
     }
 
